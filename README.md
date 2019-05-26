@@ -1,4 +1,5 @@
 # hello-world
 user guide
 
-2019/5/26
+
+I'm learning git control..
